@@ -1,3 +1,5 @@
+#Java_Snake_Game
+
 Welcome to the Java Snake Game! This is a simple yet fun implementation of the classic Snake game using Java. The player controls a snake that moves around the screen, eats food, and grows longer. The objective is to eat as much food as possible without crashing into the walls or the snake's own body.
 
 Features
